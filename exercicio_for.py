@@ -5,7 +5,5 @@ def main():
     for i in range(len(lista)):
         print(lista[i])
     
-    print("ronaldo")
-    
 if __name__ == '__main__':
 	main()
