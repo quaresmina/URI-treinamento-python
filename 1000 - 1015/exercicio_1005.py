@@ -1,5 +1,7 @@
-def main():
+#Missão: Calcular a média de um aluno a partir de duas notas
+#Sendo que a nota A tem peso 3.5 e a nota B 7.5
 
+def main():
 
     a: float = float(input())
     b: float = float(input())

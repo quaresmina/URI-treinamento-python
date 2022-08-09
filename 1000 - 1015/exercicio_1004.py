@@ -1,3 +1,5 @@
+#Missão: Calcular o produto entre dois valores informados!
+
 def main():
 
     a: int = int(input())

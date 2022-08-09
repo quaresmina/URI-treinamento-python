@@ -1,3 +1,5 @@
+#Missão: Calcular a distância entre dois pontos em um plano p1(x1,y1) e p2(x2,y2)
+
 def main():
     
     entrada1 = input()

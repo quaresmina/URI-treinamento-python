@@ -1,3 +1,5 @@
+#Missão: executar a soma de dois valores e imprimí-las!
+
 def main():
 
     a: int = int(input("digite o primeiro numero: "))

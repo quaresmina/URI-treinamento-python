@@ -1,3 +1,6 @@
+#Missão: Ler o nome do vendedor, salário fixo e total de vendas;
+#Informar o total a receber, sendo que ganha 15% de comissão
+
 def main():
     
     nome_funcionario: str = str(input())

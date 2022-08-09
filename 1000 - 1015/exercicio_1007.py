@@ -1,3 +1,6 @@
+#Missão: calcular a diferença entre 4 valores seguindo a fórmula
+#DIFERENCA = (A * B - C * D).
+
 def main():
     
     a: int = int(input())

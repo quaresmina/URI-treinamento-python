@@ -1,3 +1,6 @@
+#Missão: Calcular a média a partir de 3 valores
+#Sendo que o primeiro tem peso 2, o segundo 3 e o terceiro 5
+
 def main():
     
     a: float = float(input())

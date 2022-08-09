@@ -1,3 +1,6 @@
+#Missão: calcular a área de uma circunferência
+#recebendo o valor do raio como parâmetro
+
 def main():
 
     raio: float = float(input())
